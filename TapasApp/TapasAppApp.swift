@@ -11,7 +11,7 @@ import SwiftUI
 struct TapasAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TapasAppView()
         }
     }
 }
